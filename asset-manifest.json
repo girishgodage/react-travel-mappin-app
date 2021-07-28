@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-travel-mappin-app/static/css/main.ad56a15d.chunk.css",
-    "main.js": "/react-travel-mappin-app/static/js/main.0648a0c2.chunk.js",
-    "main.js.map": "/react-travel-mappin-app/static/js/main.0648a0c2.chunk.js.map",
+    "main.js": "/react-travel-mappin-app/static/js/main.c5f4b067.chunk.js",
+    "main.js.map": "/react-travel-mappin-app/static/js/main.c5f4b067.chunk.js.map",
     "runtime-main.js": "/react-travel-mappin-app/static/js/runtime-main.dcf430b2.js",
     "runtime-main.js.map": "/react-travel-mappin-app/static/js/runtime-main.dcf430b2.js.map",
     "static/js/2.1cd29d38.chunk.js": "/react-travel-mappin-app/static/js/2.1cd29d38.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.dcf430b2.js",
     "static/js/2.1cd29d38.chunk.js",
     "static/css/main.ad56a15d.chunk.css",
-    "static/js/main.0648a0c2.chunk.js"
+    "static/js/main.c5f4b067.chunk.js"
   ]
 }
